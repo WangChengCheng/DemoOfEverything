@@ -17,6 +17,10 @@ if you build project with [Maven].
 </dependency>
 ```
 
+### [DemoOfSerializable]
+
+This demo shows the serialization and deserialization.
 
 [Maven]: https://maven.apache.org/
 [DemoExportSomethingToExcel]: https://github.com/WangChengCheng/DemoOfEverything/blob/master/src/main/java/DemoExportSomethingToExcel.java
+[DemoOfSerializable]: https://github.com/WangChengCheng/DemoOfEverything/blob/master/src/main/java/DemoOfSerializable.java
