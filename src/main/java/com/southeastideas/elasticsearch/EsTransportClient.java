@@ -19,7 +19,7 @@ import java.net.UnknownHostException;
 
 public class EsTransportClient {
     private static final Logger LOG = LoggerFactory.getLogger(EsTransportClient.class);
-    private static Settings settings;
+    private Settings settings;
     private TransportClient client = null;
 
     public EsTransportClient(String ipListStr, int port, String clusterName) {
